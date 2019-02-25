@@ -1,6 +1,6 @@
 # bsq
-# this is a project given in school 21 piscine.
-#The project was written with my partner aharlaw and we got 0 for it. So this code won't help cheaters.
+This is a project given in school 21 piscine.
+The project was written with my partner aharlaw and we got 0 for it. So this code won't help cheaters.
 
 Finding the biggest square avoiding obstacles
 
